@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 I'm Adilah!</h1>
+<h3 align="center">Aspiring Front End developer | CS Student @ UTP | Curious Mind with a camera</h3>
 
-<!--
-**adilahauni/adilahauni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning **Java**, **C++**, **R**, and exploring **data engineering** concepts.  
+🧠 Passionate about **clean code**, **efficient systems**, and **project management**.  
+🛠️ Projects:  
+- 🧭 [XhebitAttend](#) – Visual search algorithm comparison web app (JS, React)  
 
-Here are some ideas to get you started:
+🎓 Academics:  
+- CS undergrad @ Universiti Teknologi PETRONAS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 On the side:  
+- Design enthusiast & event photographer  
+
+📫 **Let’s connect!**  
+- LinkedIn: [](#)
+- Email: [dylaoni33@gmail.com](mailto:dylaoni33@gmail.com)
+
+💡 Fun fact:  C++ is my comfort language and I love physics so much!
