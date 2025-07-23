@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Adilah!</h1>
-<h3 align="center">Aspiring Front End developer | CS Student @ UTP | Curious Mind with a camera</h3>
+<h3 align="center">Aspiring Front End developer | CS Student @ UTP | Curious mind with a camera</h3>
 
 🌱 I’m currently learning **Java**, **C++**, **R**, and exploring **data engineering** concepts.  
 🧠 Passionate about **clean code**, **efficient systems**, and **project management**.  
@@ -13,7 +13,7 @@
 - Design enthusiast & event photographer  
 
 📫 **Let’s connect!**  
-- LinkedIn: [](#)
-- Email: [dylaoni33@gmail.com](mailto:dylaoni33@gmail.com)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-adilahauni-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/adilahauni/)
+- Email: [![Email](https://img.shields.io/badge/Email-dylaoni33%40gmail.com-red?logo=gmail&style=flat-square)](mailto:dylaoni33@gmail.com)
 
-💡 Fun fact:  C++ is my comfort language and I love physics so much!
+💡 Fun fact: I still think Newton and Ohm deserve honorary dev credits
