@@ -9,6 +9,7 @@
 ###
 
 <h4 align="left">My name is Siti Adilah Auni & I'm a CS student @ UTP from Malaysia</h4>
+<h4 align="left">— Currently an intern at Pengerang Integrated Complex, Johor as a Data Analyst for PETRONAS</h4>
 
 ###
 
@@ -16,7 +17,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Web Dev<br>🎲 Fun fact: I like anything with pistachio flavour</p>
+<p align="left">📚 I'm currently learning Power BI<br>🎲 Fun fact: I like anything with pistachio flavour</p>
 
 ###
 
